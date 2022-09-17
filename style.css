@@ -1,0 +1,133 @@
+body {
+    background-color: #222fd9;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, Arial;
+}
+
+main {
+    background-color: white;
+    border-radius: 30px;
+    width: 650px;
+    margin: 30px auto;
+    padding: 20px 0;
+}
+
+.text1 {
+    padding-bottom: 25px;
+    font-size: 27px;
+    font-weight: 775;
+}
+
+.imgbrand{
+    width: 450px;
+    margin-bottom: 15px;
+}
+
+.text2 {
+    width: 500px;
+    margin: auto;
+    font-size: 15px;
+    line-height: 27px;
+    color: grey;
+}
+
+.text3 {
+    color: #222fd9;
+    font-size: 28px;
+}
+
+.text4 {
+    color: gray;
+    font-size: 28px;
+}
+
+.box {
+    width: 650px;
+    overflow: hidden;
+    margin-top: 45px;
+    padding: 35px 45px;
+    background-color: rgba(34, 47, 217, 0.05);
+    border-top: 1px solid #222fd9;
+    border-bottom: 2px solid #222fd9;
+}
+
+.box-image {
+    width: 225px;
+    float: left;
+}
+
+.imgpost {
+    width: 225px;
+}
+
+.box-text {
+    width: 350px;
+    float: left;
+    text-align: left;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li.mb{
+    margin-bottom: 35px;
+}
+
+.ul-symbol {
+    color: #222fd9;
+    letter-spacing: 5px;
+}
+
+.text8 {
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+}
+
+.text9 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.sosmed {
+    width: 650px;
+    overflow: hidden;
+}
+
+.ig {
+    background: #a4497f;
+}
+
+.fb {
+    background: #7084d5;
+}
+
+.tw {
+    background: #99c5f6;
+}
+
+.box-sosmed {
+    width: 166.68px;
+    height: fit-content;
+    float: left;
+    padding: 25px;
+}
+
+.icon-sosmed {
+    width: 23px;
+}
+
+.name-sosmed {
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.text10 {
+    color: #222fd9;
+    font-weight: 750;
+    font-size: 20px;
+    margin-top: 30px;
+}
